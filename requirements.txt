@@ -2,3 +2,6 @@ flask
 whatsminer
 pytz
 jdatetime
+requests
+beautifulsoup4
+urllib3
